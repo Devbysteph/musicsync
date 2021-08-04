@@ -1,2 +1,2 @@
 # musicsync
-my musicsync repository
+my musicsync repository, created using HTML, CSS, and JAVASCRIPT
